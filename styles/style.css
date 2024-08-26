@@ -4,7 +4,7 @@
     grid-template-columns: 1fr 148px 1fr;
     justify-content: space-between;
     align-content: center;
-    padding: 92px 50px 92px 50px; 
+    padding: 92px 50px 92px 50px;
 }
 
 .header__menu {
@@ -54,7 +54,7 @@
 
 .header__address {
     justify-self: end;
-    align-self: center; 
+    align-self: center;
 }
 
 .cover {
@@ -294,12 +294,12 @@
     grid-template-columns: 1fr 1fr 1fr;
     justify-content: space-between;
     align-content: center;
-    margin: 0px 50px 88px 50px; 
+    margin: 0px 50px 88px 50px;
 }
 
 .footer__address {
     justify-self: start;
-    align-self: center; 
+    align-self: center;
 }
 
 .footer__menu {
